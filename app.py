@@ -3,15 +3,15 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
-from sklearn.experimental import enable_iterative_imputer
-from sklearn.impute import IterativeImputer
+# from sklearn.experimental import enable_iterative_imputer
+# from sklearn.impute import IterativeImputer
 
-# Modeling
-from sklearn_extra.cluster import KMedoids
-from sklearn.cluster import KMeans
-from scipy.spatial.distance import cdist, pdist
-from sklearn.decomposition import PCA
-from sklearn.cluster import AgglomerativeClustering, Birch
+# # Modeling
+# from sklearn_extra.cluster import KMedoids
+# from sklearn.cluster import KMeans
+# from scipy.spatial.distance import cdist, pdist
+# from sklearn.decomposition import PCA
+# from sklearn.cluster import AgglomerativeClustering, Birch
 
 st.set_page_config(page_title="Customer Segmentation Using PAM Algorithm",
                    page_icon="🗞️", layout="centered")
