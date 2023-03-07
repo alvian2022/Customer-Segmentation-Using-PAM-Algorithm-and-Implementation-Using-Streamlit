@@ -1,9 +1,8 @@
-pip==22.2.2
 pickleshare==0.7.5
 streamlit==1.14.0
 pandas== 1.4.4
 numpy==1.23.5
 scikit-learn==1.0.2
 scikit-learn-extra         
-scikit-learn-intelex==2021.6.0
+
 
