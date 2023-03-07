@@ -3,5 +3,5 @@ pickleshare==0.7.5
 streamlit==1.14.0
 pandas== 1.4.4
 numpy==1.23.5
-sklearn
+scikit-learn==1.0.2
 
