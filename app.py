@@ -3,8 +3,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
-import model_fix.pickle
-
 
 st.set_page_config(page_title="Customer Segmentation Using PAM Algorithm",
                    page_icon="🗞️", layout="centered")
